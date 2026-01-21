@@ -32,9 +32,8 @@ Di sini kamu bisa menemukan project, eksperimen, dan hal-hal seru yang sedang ak
 ---
 
 ### 📫 Let's Connect
-- 💌 Email: *isi email kamu*
-- 🌐 Portfolio: *isi link portfolio*
-- 📷 Instagram / LinkedIn: *isi link*
+- 💌 Email: *nandachairunnis17@gmail.com*
+- 📷 Instagram / LinkedIn: *http://instagram.com/nndachrnnsa/*
 
 ---
 
