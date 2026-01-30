@@ -30,11 +30,11 @@ Di sini kamu bisa menemukan project, eksperimen, dan hal-hal seru yang sedang ak
 ### 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=niicaa17&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=niicaa17&show_icons=true&theme=radical"
     height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicaa17&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=niicaa17&layout=compact&theme=radical"
     height="165"
   />
 </p>
