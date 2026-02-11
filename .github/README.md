@@ -49,7 +49,9 @@ Di sini kamu bisa menemukan project, eksperimen, dan hal-hal seru yang sedang ak
 <div align="center">
   <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niicaa17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
 
-  <img src="  https://streak-stats.demolab.com?user=niicaa17&theme=codestackr&locale=id&short_numbers=true&date_format=j%20M%5B%20Y%5D&type=png" height="150" alt="streak graph"  />
+  <!-- <img src="  https://streak-stats.demolab.com?user=niicaa17&theme=codestackr&locale=id&short_numbers=true&date_format=j%20M%5B%20Y%5D&type=png" height="150" alt="streak graph"  /> -->
+
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=niicaa17&theme=dracula&hide_border=true&count_private=true"/>
 
 
   <!-- <img src="https://github-profile-trophy.vercel.app?username=niicaa17&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
