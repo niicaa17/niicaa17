@@ -85,7 +85,9 @@ Di sini kamu bisa menemukan project, eksperimen, dan hal-hal seru yang sedang ak
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=niicaa17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="  https://streak-stats.demolab.com?user=niicaa17&theme=codestackr&locale=id&short_numbers=true&date_format=j%20M%5B%20Y%5D&type=png" height="150" alt="streak graph"  />
+
+
   <img src="https://github-profile-trophy.vercel.app?username=niicaa17&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
