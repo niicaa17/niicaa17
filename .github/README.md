@@ -94,8 +94,8 @@ Di sini kamu bisa menemukan project, eksperimen, dan hal-hal seru yang sedang ak
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niicaa17/niicaa17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niicaa17/niicaa17/output/pacman-contribution-graph.svg">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niicaa17/niicaa17/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niicaa17/niicaa17/output/pacman-contribution-graph.svg"> -->
   <img alt="pacman contribution graph" src="https://github.com/niicaa17/niicaa17/blob/main/pacman.svg">
 </picture>
 
