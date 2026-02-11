@@ -17,24 +17,6 @@ Di sini kamu bisa menemukan project, eksperimen, dan hal-hal seru yang sedang ak
 ---
 
 ### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niicaa17&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niicaa17&layout=compact&theme=radical)
-
----
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -61,7 +43,25 @@ Di sini kamu bisa menemukan project, eksperimen, dan hal-hal seru yang sedang ak
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
 </div>
 
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="  https://streak-stats.demolab.com?user=niicaa17&theme=codestackr&locale=id&short_numbers=true&date_format=j%20M%5B%20Y%5D&type=png" height="150" alt="streak graph"  />
+
+
+  <img src="https://github-profile-trophy.vercel.app?username=niicaa17&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+---
+
+<h3 align="center">📫 Let's Connect</h1>
+
 ###
+
+### 
+- 💌 Email: **nandachairunnis17@gmail.com**
+- 📷 Instagram / LinkedIn: [http://instagram.com/nndachrnnsa/](http://instagram.com/nndachrnnsa/)
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -70,13 +70,6 @@ Di sini kamu bisa menemukan project, eksperimen, dan hal-hal seru yang sedang ak
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
-
-###
-
-### 📫 Let's Connect
-- 💌 Email: **nandachairunnis17@gmail.com**
-- 📷 Instagram / LinkedIn: [http://instagram.com/nndachrnnsa/](http://instagram.com/nndachrnnsa/)
-
 ---
 
 ✨ *Thanks for visiting my profile. Have a great day!* ✨
@@ -84,18 +77,11 @@ Di sini kamu bisa menemukan project, eksperimen, dan hal-hal seru yang sedang ak
 
 ###
 
-<div align="center">
-  <img src="  https://streak-stats.demolab.com?user=niicaa17&theme=codestackr&locale=id&short_numbers=true&date_format=j%20M%5B%20Y%5D&type=png" height="150" alt="streak graph"  />
 
-
-  <img src="https://github-profile-trophy.vercel.app?username=niicaa17&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niicaa17/niicaa17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niicaa17/niicaa17/output/pacman-contribution-graph.svg"> -->
   <img alt="pacman contribution graph" src="https://github.com/niicaa17/niicaa17/blob/main/pacman.svg">
 </picture>
 
