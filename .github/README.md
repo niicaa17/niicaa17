@@ -63,9 +63,12 @@ Di sini kamu bisa menemukan project, eksperimen, dan hal-hal seru yang sedang ak
 
 ###
 
-### 
+### Kontak
+
 - 💌 Email: **nandachairunnis17@gmail.com**
-- 📷 Instagram / LinkedIn: [http://instagram.com/nndachrnnsa/](http://instagram.com/nndachrnnsa/)
+- 📷 Instagram: https://instagram.com/nndachrnnsa/
+- 💼 LinkedIn: https://www.linkedin.com/in/nanda-chairunnisa
+- ▶️ YouTube: https://www.youtube.com/@nandachairunnisa275
 
 
 
